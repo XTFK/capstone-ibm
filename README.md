@@ -15,7 +15,7 @@ Dataset berisi komentar YouTube channel beserta atribut seperti `likeCount` dan 
 - Penghapusan komentar netral untuk fokus klasifikasi
 - Vektorisasi teks menggunakan **TF-IDF**
 - Evaluasi dan perbandingan 12 algoritma klasifikasi
-- Penyimpanan model terbaik (LinearSVC) dalam bentuk `.pkl`
+- Penyimpanan model terbaik dalam bentuk `.pkl`
 
 ## 📦 Instalasi
 
