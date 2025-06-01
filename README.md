@@ -1,4 +1,5 @@
 # Twitter Entity Sentiment Analysis
+Analisis Sentimen Komentar Twitter terhadap Entitas Tertentu Menggunakan Machine Learning
 
 ## Project Overview
 
