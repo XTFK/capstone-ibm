@@ -29,8 +29,9 @@ Pipeline ini mencakup preprocessing teks, eksplorasi data, pembandingan berbagai
 
 ### Distribusi Sentimen
 Visualisasi menunjukkan distribusi label sentimen cukup seimbang:
-- `Positive`: dominan pada beberapa entitas
-- `Negative` dan `Neutral`: juga cukup signifikan
+- `Negative`: dominan pada beberapa entitas.
+- `Positive` dan `Neutral`: juga cukup signifikan.
+- `Irrelevant`: dengan hasil yang paling sedikit dibawah namun tidak terlalu jauh dari hasil sentimen lainnya.
 
 ### Panjang Komentar
 Sebagian besar komentar memiliki panjang kurang dari 150 karakter, sesuai dengan batasan Twitter.
